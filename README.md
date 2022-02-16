@@ -8,5 +8,5 @@ Working on SHOVELING CULTURAL SNOW (with a respect for Haruki Murakami, a Japane
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=cocomoff&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cocomoff" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cocomoff&layout=compact" />
 </a>
